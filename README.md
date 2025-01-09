@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• 🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.<br>• 👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.<br>• 📫 Como entrar em contato comigo: [E-mail](mailto:rafael150305@gmail.com) | [LinkedIn](www.linkedin.com/in/rafaelolmoreira)</p>
+<p align="left">• 🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.<br>• 👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.<br>• 📫 Como entrar em contato comigo: E-mail | [LinkedIn](https://www.linkedin.com/in/rafaelolmoreira/) </p>
 
 ###
 
@@ -36,12 +36,12 @@
 
 ###
 
-<p align="left"></p>
+<h2 align="left"></h2>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/rafaelolmoreira" target="_blank">
+  <a href="https://www.linkedin.com/in/rafaelolmoreira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rafael.mor_/" target="_blank">
