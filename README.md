@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• 🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.<br>• 👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.<br>• 📫 Como entrar em contato comigo: E-mail | [LinkedIn] (https://www.linkedin.com/in/rafaelolmoreira/)</p>
+<p align="left">• 🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.<br>• 👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.<br>• 📫 Como entrar em contato comigo: E-mail | [LinkedIn](https://www.linkedin.com/in/rafaelolmoreira/)</p>
 
 ###
 
