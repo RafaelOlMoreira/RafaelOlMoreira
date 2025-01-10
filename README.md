@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Visite meu perfil no:</h2>
+<h2 align="left">📱​ Visite meu perfil no:</h2>
 
 ###
 
