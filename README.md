@@ -1,17 +1,14 @@
-# Hi there! 👋 I'm Miguel Bizzi
+# Olá! 👋 Eu sou Rafael Moreira
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in developing innovative solutions and improving my skills continuously. Here's a bit more about me:
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full-Stack com uma paixão enorme por criar soluções tecnológicas incríveis. Adoro explorar novas ferramentas e transformar ideias em código. Aqui está um pouco mais sobre mim:
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-- 🌱 I’m currently learning advanced mobile development and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
-- 💬 Ask me about anything related to web development and software engineering.
-- 📫 How to reach me: [Email](mailto:migueloliveirabizzi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/miguelbizzi/)
-- 💻 Check my website here: [Link](https://www.miguelbizzi.com.br/en)
-- ⚡ Fun fact: I love learning new languages and exploring new places!
+- 🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.
+- 👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.
+- 📫 Como entrar em contato comigo: [Email](mailto:rafael150305@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaelolmoreira/)
 
-## 🛠️ Languages and Tools
+## 💻 Habilidades
 
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte)
@@ -26,4 +23,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
-Thank you for visiting my profile! Let's build something amazing together!
+## 📱​ Visite meu perfil no:
+
+<a href="https://www.linkedin.com/in/rafaelolmoreira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
