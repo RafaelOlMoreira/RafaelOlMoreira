@@ -1,52 +1,29 @@
-<h1 align="left">Olá! 👋 Eu sou Rafael Moreira</h1>
+# Hi there! 👋 I'm Miguel Bizzi
 
-###
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in developing innovative solutions and improving my skills continuously. Here's a bit more about me:
 
-<p align="left">Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full-Stack com uma paixão enorme por criar soluções tecnológicas incríveis. Adoro explorar novas ferramentas e transformar ideias em código. Aqui está um pouco mais sobre mim:</p>
+## 🚀 About Me
 
-###
+- 🌱 I’m currently learning advanced mobile development and cloud computing.
+- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
+- 💬 Ask me about anything related to web development and software engineering.
+- 📫 How to reach me: [Email](mailto:migueloliveirabizzi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/miguelbizzi/)
+- 💻 Check my website here: [Link](https://www.miguelbizzi.com.br/en)
+- ⚡ Fun fact: I love learning new languages and exploring new places!
 
-<h2 align="left">🚀​ Sobre mim</h2>
+## 🛠️ Languages and Tools
 
-###
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
-<p align="left">
-  -🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.<br>
-  -👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.<br>
-  -📫 Como entrar em contato comigo: E-mail |  [Recriando o jogo da cobrinha com JavaScript](https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined)</p>
-
-###
-
-<h2 align="left">💻 Habilidades</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h2 align="left">📱​ Visite meu perfil no:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rafaelolmoreira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+Thank you for visiting my profile! Let's build something amazing together!
