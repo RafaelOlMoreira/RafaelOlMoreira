@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">• 🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.<br>• 👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.<br>• 📫 Como entrar em contato comigo: E-mail | [LinkedIn](https://www.linkedin.com/in/rafaelolmoreira/)</p>
+<p align="left">
+  -🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.<br>
+  -👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.<br>
+  -📫 Como entrar em contato comigo: E-mail |  [Recriando o jogo da cobrinha com JavaScript](https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined)</p>
 
 ###
 
