@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full-Stack com uma paix�
 - 👨‍💻 Tenho conhecimentos em React, Node.js, C#, HTML, CSS, JavaScript, Git.
 - 📫 Como entrar em contato comigo: [Email](mailto:rafael150305@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaelolmoreira/)
 
-## 💻 Habilidades
+## 🛠️ Linguagens e Ferramentas
 
 <div align="left">
     
