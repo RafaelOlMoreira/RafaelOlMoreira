@@ -1,11 +1,11 @@
 # Olá! 👋 Eu sou Rafael Moreira
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full-Stack com uma paixão enorme por criar soluções tecnológicas incríveis. Adoro explorar novas ferramentas e transformar ideias em código. Aqui está um pouco mais sobre mim:
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Web Full-Stack com uma paixão enorme por criar soluções tecnológicas incríveis. Adoro explorar novas ferramentas e transformar ideias em código. Aqui está um pouco mais sobre mim:
 
 ## 🚀 Sobre mim
 
 - 🌱 Atualmente estou aprendendo sobre criação de chatbots avançados.
-- 👨‍💻 Tenho grandes conhecimentos em React, Node.js, Tailwind CSS, C#, JavaScript, Git.
+- 👨‍💻 Tenho grandes conhecimentos em React, Node.js, Tailwind CSS, C#.
 - 📫 Como entrar em contato comigo: [Email](mailto:rafael150305@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaelolmoreira/)
 
 ## 🛠️ Linguagens e Ferramentas
@@ -27,6 +27,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full-Stack com uma paix�
 ## 📱​ Visite meu perfil no:
 
   <div> 
-  <a href="[https://www.linkedin.com/in/matheushenriquedolchagas/](https://www.linkedin.com/in/rafaelolmoreira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/rafaelolmoreira]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </a>
