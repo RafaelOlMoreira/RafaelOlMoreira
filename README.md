@@ -23,10 +23,3 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Web Full-Stack com uma p
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 </div>
-
-## 📱​ Visite meu perfil no:
-
-  <div> 
-  <a href="[https://www.linkedin.com/in/rafaelolmoreira]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</a>
