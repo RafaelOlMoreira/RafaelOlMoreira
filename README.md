@@ -1,10 +1,10 @@
 # Olá! 👋 Eu sou Rafael Moreira
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Web Full-Stack com uma paixão enorme por criar soluções tecnológicas incríveis. Adoro explorar novas ferramentas e transformar ideias em código. Aqui está um pouco mais sobre mim:
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Web Full-Stack com uma paixão enorme por criar projetos tecnológicos. Adoro explorar novas ferramentas e transformar ideias em código. Aqui está um pouco mais sobre mim:
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente estou melhorando minhas habilidades em responsividade com Grid e animações.
+- 🌱 Atualmente estou melhorando minhas habilidades com animações.
 - 👨‍💻 Tenho grandes conhecimentos em React, Node.js, Tailwind CSS, C#.
 - 📫 Como entrar em contato comigo: [Email](mailto:rafael150305@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaelolmoreira/)
 
