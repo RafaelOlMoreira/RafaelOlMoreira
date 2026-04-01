@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Web Full-Stack com uma p
 
 <div align="left">
     
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
