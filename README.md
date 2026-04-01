@@ -13,13 +13,12 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Web Full-Stack com uma p
 <div align="left">
     
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
